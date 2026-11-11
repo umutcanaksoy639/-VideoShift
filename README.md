@@ -1,4 +1,4 @@
-# VideoShift 🎬
+# VideoShift
 
 **Move fullscreen videos vertically without stretching or resizing.**
 
@@ -6,7 +6,7 @@ VideoShift is a free, open-source Tampermonkey userscript that lets you move vid
 
 Designed for people who want more control over video positioning, especially on 16:10 laptops, ultrawide monitors, and OLED displays.
 
-## Features
+ Features
 
 - Move videos vertically using keyboard shortcuts
 - Unlimited upward and downward movement
@@ -16,7 +16,7 @@ Designed for people who want more control over video positioning, especially on 
 - Works with YouTube and aims to support other HTML5 video players
 - Free and open source
 
-## Installation
+ Installation
 
 1. Install the Tampermonkey browser extension.
 2. Download the `VideoShift.user.js` file from this repository.
@@ -24,7 +24,7 @@ Designed for people who want more control over video positioning, especially on 
 4. Open a supported video website.
 5. Enter fullscreen mode and use the keyboard shortcuts.
 
-## Keyboard Shortcuts
+ Keyboard Shortcuts
 
 | Shortcut | Action |
 |---|---|
@@ -38,13 +38,13 @@ Designed for people who want more control over video positioning, especially on 
 | Alt + T | Align to top |
 | Alt + R | Reset video position |
 
-## Compatibility
+ Compatibility
 
 VideoShift is designed for YouTube and other websites using HTML5 video players.
 
 Compatibility may vary depending on the website, browser, fullscreen implementation, and video player. Not all streaming platforms have been tested.
 
-## Why VideoShift?
+ Why VideoShift?
 
 Most video players automatically center the video in fullscreen mode.
 
@@ -54,7 +54,7 @@ Whether you're watching videos while lying down, using a 16:10 laptop, or experi
 
 Moving video content does not guarantee prevention of OLED burn-in.
 
-## License
+ License
 
 Licensed under the MIT License.
 
